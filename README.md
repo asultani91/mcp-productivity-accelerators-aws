@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asultani91-mcp-productivity-accelerators-aws-badge.png)](https://mseep.ai/app/asultani91-mcp-productivity-accelerators-aws)
+
 
 # 🔧 Everyday Productivity Accelerators: Building GenAI Tools with Model Context Protocol (MCP)
 
